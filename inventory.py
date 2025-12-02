@@ -28,7 +28,7 @@ def main():
         print("3. Cảnh báo hh") 
         print("4. Thoát") 
          
-        choice = input("Chọn chức năng: ") 
+        choice = input("Chọn cn: ") 
          
         if choice == '1':             
             add_product()         
