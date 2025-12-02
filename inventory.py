@@ -17,15 +17,15 @@ def add_product():
  
 def view_inventory(): 
      pass 
-def che_low_stock(): 
+def check_low_stock(): 
     pass 
  
 def main():     
     while True: 
         print("\n--- QUẢN LÝ KHO HÀNG ---") 
         print("1. Nhập hàng mới")         
-        print("2. Xem tồn kho")         
-        print("3. Cảnh báo hết hàng") 
+        print("2. Xem tồn k")         
+        print("3. Cảnh báo hh") 
         print("4. Thoát") 
          
         choice = input("Chọn chức năng: ") 
